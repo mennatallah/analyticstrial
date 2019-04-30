@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="selenium-opera-driver-3.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jar/selenium-opera-driver-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar/selenium-remote-driver-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar/selenium-safari-driver-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar/selenium-support-3.141.59.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
